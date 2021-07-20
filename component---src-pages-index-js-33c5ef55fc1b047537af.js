@@ -1,0 +1,2 @@
+(self.webpackChunkmy_gatsby_site=self.webpackChunkmy_gatsby_site||[]).push([[678],{704:function(e,t,n){"use strict";n.r(t);var i=n(294),s={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};Object.assign({},{color:"#8954A8",fontWeight:"bold",fontSize:16,verticalAlign:"5%"},{listStyleType:"none",marginBottom:24});t.default=function(){return i.createElement("main",{style:s},i.createElement("title",null,"Welcome to Minh Hung page"),"This is a website for fun")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-33c5ef55fc1b047537af.js.map
